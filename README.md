@@ -18,7 +18,7 @@ it, simply add the following lines to your Podfile:
 
 ```
 
-pod 'Qwasi', '~>2.1.18'
+pod 'Qwasi', '~>2.1.19'
 ```
 ## License
 
