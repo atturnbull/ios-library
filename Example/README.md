@@ -1,6 +1,6 @@
-# Qwasi
+# Qwasi Example
 
-The Qwasi `ios-library` provides a convenient method for accessing the Qwasi JSON-RPC API.
+The Qwasi `ios-library` provides a convenient method for accessing the Qwasi JSON-RPC API. This example project outlines the proper way to utilize the library, as well as various build settings.
 
 ##Requirements:
 
@@ -14,5 +14,5 @@ To run the example project:
 
 1. clone the repo 
 2. run `pod update` from the Example directory
-3. Using the newly generated 'Qwasi.xcworkspace' open the project
+3. Use _*Qwasi.xcworkspace*_ open the project
 4. Run, install, and modify!
